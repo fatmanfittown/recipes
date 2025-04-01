@@ -4,13 +4,13 @@ A highly simplified variant of the Curry-Cheese-Onion Bread from the Cheeseboard
 
 ## Ingredients
 
-2 cups warm water
-4 cups plus a few tablespoons bread flour
-1 tbsp active dry yeast
-2 tsp kosher salt
-1 tbsp curry powder
-8 oz cheddar cheddar cheese in 1/2 inch cubes
-a little corn meal for baking
+ - 2 cups warm water
+ - 4 cups plus a few tablespoons bread flour
+ - 1 tbsp active dry yeast
+ - 2 tsp kosher salt
+ - 1 tbsp curry powder
+ - 8 oz cheddar cheddar cheese in 1/2 inch cubes
+ - a little corn meal for baking
 
 ## Directions
 
